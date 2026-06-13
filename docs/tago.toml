@@ -1,0 +1,10 @@
+title       = "pw"
+baseURL     = "https://proofwiki-cli.tamnd.com/"
+description = "Browse ProofWiki mathematical proofs"
+contentDir  = "content"
+outputDir   = "public"
+theme       = "tago-doks"
+syntaxHighlight = "true"
+
+[params]
+github = "https://github.com/tamnd/proofwiki-cli"
